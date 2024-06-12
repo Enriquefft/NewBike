@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   metadataBase: new URL("https://next-learn-dashboard.vercel.sh"),
   title: {
-    template: "%s | Nextjs template",
-    default: "Nextjs template",
+    template: "%s | NewBike",
+    default: "NewBike",
   },
-  description: "Nextjs template",
-  keywords: ["Nextjs", "fullstack", "templates"],
+  description: "A new bike to be young again.",
+  keywords: ["bicycle", "old", "comfort"],
   authors: [
     {
       name: "Enrique Flores",
